@@ -26,8 +26,8 @@ npm test
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-##Vue单页面应用
-```bash
+## Vue单页面应用
+```
 #vuex
 store.js
         |---state  state状态管理数据
@@ -37,3 +37,4 @@ store.js
 #Vue-router
         |---main.js 引入vue-router
         |---index.js 按需设置路由界面
+```
